@@ -31,7 +31,7 @@ The script is set up to query the root DNS server (IP address: 198.41.0.4) for a
 
 ## How It Works
 
-
+```
 [ Your Computer ]        [ Google's DNS Server ]
            |                         |
       Create Socket                   |
@@ -42,6 +42,7 @@ The script is set up to query the root DNS server (IP address: 198.41.0.4) for a
            |                         |
    Check ID in Response               |
            |                         |
+```
 
 
 
